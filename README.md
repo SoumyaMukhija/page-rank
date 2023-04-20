@@ -4,7 +4,7 @@ PageRank algorithm can be used to evaluate relative importance of nodes in a con
 It is based on the concept of in-links and out-links of a node and is used to rank nodes in a graph
 in order of their importance.
 
-Data:
+## Data:
 
 1. Go to https://transtats.bts.gov/
 
@@ -30,7 +30,7 @@ data is available (e.g. July), and select following fields:
 
 
 
-
+## About the program
 1. The program has 3 parameters:
 
   1. Location of the csv file containing the fields mentioned above. The file should be hosted on
