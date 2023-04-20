@@ -1,0 +1,3 @@
+/FileStore/tables/new_user_credentials.csv
+100
+/mnt/bigdata1/Page_rank
